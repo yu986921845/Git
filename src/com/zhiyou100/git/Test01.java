@@ -16,6 +16,6 @@ public class Test01 {
          System.out.println("添加文件01");
          System.out.println("添加文件01");
          System.out.println("添加文件01");
+         System.out.println("双洋添加的文件");
 	}
-
 }
